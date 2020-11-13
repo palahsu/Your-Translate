@@ -11,11 +11,11 @@ A flexible free translator. With different languages in a simple way using multi
 
 `pip install googletrans`
 
-`git clone https://github.com/palahsu/Your-Translator.git`
+`git clone https://github.com/palahsu/Your-Translate.git`
 
-`cd Your-Translator.py`
+`cd Your-Translate.py`
 
-`python3 Your Translator.py`
+`python3 Your Translate.py`
 
 ## For Termux:
 
@@ -27,11 +27,11 @@ A flexible free translator. With different languages in a simple way using multi
 
 `pkg install git -y`
 
-`git clone https://github.com/palahsu/Your-Translator.git`
+`git clone https://github.com/palahsu/Your-Translate.git`
 
-`cd Your-Translator.py`
+`cd Your-Translate.py`
 
-`python3 Your Translator.py`
+`python3 Your Translate.py`
 
 ## For Debian-based GNU/Linux distributions
 To use the application, type in the following commands in GNU/Linux terminal.
@@ -39,10 +39,10 @@ To use the application, type in the following commands in GNU/Linux terminal.
 `sudo apt install git`
 `sudo apt install tkinter`
 `sudo apt install googletrans`
-`https://github.com/palahsu/Your-Translator.git`
-`cd Your-Translator.py`
+`https://github.com/palahsu/Your-Translate.git`
+`cd Your-Translate.py`
 `ls`
-`python3 Your Translator.py`
+`python3 Your Translate.py`
 
 For any kind of help, support, suggetion and request ask in my Telegram Group :
 https://t.me/AD0000000 / https://t.me/linux_repo

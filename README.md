@@ -1,4 +1,4 @@
-# Your-Translator
+# Your-Translate
 A flexible free translator. With different languages in a simple way using multiple translators. Translate Your Language.
 
 ![Your Translator](https://user-images.githubusercontent.com/49250151/99029035-9f6fe080-259b-11eb-8a6a-ad687d4b6ece.jpg)

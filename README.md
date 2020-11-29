@@ -56,5 +56,5 @@ To use the application, type in the following commands in GNU/Linux terminal.
 </p><p align="left">
 <a href="https://facebook.com/Aduri.knox"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a>
 </p><p align="left">
-<a href="https://t.me/AD0000000"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Profile-blue.svg?logo=telegram"></a>
+<a href="https://t.me/AD0000000"><img src="https://img.shields.io/badge/Telegram-Contact%20Telegram%20Profile-blue.svg?logo=telegram"></a>
 </p><p align="left"> 
